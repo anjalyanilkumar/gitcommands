@@ -1,1 +1,2 @@
 Hello Hai
+This is a demo txt file
